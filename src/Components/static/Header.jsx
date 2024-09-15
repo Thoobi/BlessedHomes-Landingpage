@@ -22,7 +22,7 @@ const Header = () => {
                         }>
                             Home
                         </NavLink>
-                        <NavLink to={"/About-Us"} className={({ isActive }) =>
+                        <NavLink to={"/#property"} className={({ isActive }) =>
                             isActive ? "border-b-[2px] border-b-black" : "hover:border-b-[2px] hover:border-b-black"
                         }>
                             About-Us

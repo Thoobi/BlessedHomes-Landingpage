@@ -11,9 +11,9 @@ const Footer = () => {
     const year = now.getFullYear()
 
     return (
-        <div className="font-urbanist w-full border-blue-400 border max-w-screen-2xl mx-auto text-white">
+        <div className="font-urbanist w-full max-w-screen-2xl mx-auto text-white">
             <div className='w-full bg-[#141414]'>
-                <div className='w-[90%] mx-auto border border-green-600 py-[60px] px-[80px] bg-no-repeat bg-cover flex flex-row justify-between items-center max-lg:flex-col max-lg:w-full max-lg:px-4 max-lg:py-[50px] max-lg:gap-[30px]' style={{ backgroundImage: `url(${background})` }}>
+                <div className='w-[90%] mx-auto py-[60px] px-[80px] bg-no-repeat bg-cover flex flex-row justify-between items-center max-lg:flex-col max-lg:w-full max-lg:px-4 max-lg:py-[50px] max-lg:gap-[30px]' style={{ backgroundImage: `url(${background})` }}>
                     <div className='w-[70%] max-lg:w-full'>
                         <h2 className='text-[38px] max-lg:text-[28px] font-semibold'>
                             Start Your Real Estate Journey Today
@@ -26,9 +26,9 @@ const Footer = () => {
                         Explore Properties
                     </button>
                 </div>
-                <div className='w-[90%] py-10 lg:h-[392px] border border-red-800 mx-auto flex flex-row gap-x-20 max-lg:gap-5 max-lg:flex-col max-lg:justify-center'>
-                    <div className='flex flex-col gap-y-5 h-[120px] justify-start border-red-500 border'>
-                        <div className='w-full border border-green-500 flex justify-start'>
+                <div className='w-[90%] py-10 lg:h-[392px] mx-auto flex flex-row gap-x-20 max-lg:gap-5 max-lg:flex-col max-lg:justify-center'>
+                    <div className='flex flex-col gap-y-5 h-[120px] justify-start'>
+                        <div className='w-full flex justify-start'>
                             <img src={logo} className='h-[50px] w-[180px]
                             max-lg:w-[120px] max-lg:h-[45px] self-start' alt="The logo" />
                         </div>
@@ -114,7 +114,7 @@ const Footer = () => {
                                 </Link>
                             </div>
                         </div>
-                        <div className='flex flex-col gap-y-6 max-lg:h-[150px] -mt-28'>
+                        <div className='flex flex-col gap-y-6 max-lg:h-[150px] max-lg:-mt-28'>
                             <h2 className='text-[#999999] text-lg font-medium'>Contact-Us</h2>
                             <div className='text-white text-base font-medium flex flex-col gap-y-4 max-lg:gap-y-2'>
                                 <Link>

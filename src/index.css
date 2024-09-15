@@ -11,3 +11,9 @@
 .slick-slide>div {
     padding: 0 10px;
 }
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 90px;
+    /* Adjust this value based on your navbar's height */
+}

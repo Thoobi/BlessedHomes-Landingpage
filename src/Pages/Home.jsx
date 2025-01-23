@@ -183,7 +183,8 @@ const Home = () => {
           <div className="w-[50%] flex flex-col gap-[50px] my-auto max-lg:w-full">
             <div className="w-full flex flex-col gap-5">
               <h1 className="text-[46px] font-semibold max-lg:text-[28px] leading-[120%] max-lg:mt-10">
-                Discover Your Dream Property with Blessed Homes and properties
+                Discover Your Dream Property with Ten Times Better Blessed Homes
+                and properties
               </h1>
               <p className="text-base text-[#999999] max-lg:text-sm">
                 Your journey to finding the perfect property begins here.
@@ -276,8 +277,8 @@ const Home = () => {
                 </h2>
                 <p className="text-base font-medium max-lg:text-[#999999] max-lg:text-sm">
                   Read the success stories and heartfelt testimonials from our
-                  valued clients. Discover why they chose Blessed Homes and
-                  Properties for their real estate needs.
+                  valued clients. Discover why they chose Ten Times Better
+                  Blessed Homes and Properties for their real estate needs.
                 </p>
               </div>
               <button className="bg-[#1A1A1A] h-[49px] w-[155px] border border-[#262626] self-end rounded-lg text-base font-medium max-lg:hidden">
@@ -300,9 +301,9 @@ const Home = () => {
                       Exceptional Service
                     </h2>
                     <p className="max-lg:text-sm max-lg:font-medium">
-                      Our experience with Blessed Homes and Properties was
-                      outstanding. Their team&apos;s dedication and
-                      professionalism made finding our dream home a breeze.
+                      Our experience with Ten Times Better Blessed Homes and
+                      Properties was outstanding. Their team&apos;s dedication
+                      and professionalism made finding our dream home a breeze.
                       Highly recommended!
                     </p>
                   </div>
@@ -324,9 +325,10 @@ const Home = () => {
                       Efficient and Reliable
                     </h2>
                     <p className="max-lg:text-sm max-lg:font-medium">
-                      Blessed Homes and Properties provided us with top-notch
-                      service. They helped us sell our property quickly and at a
-                      great price. We couldn&apos;t be happier with the results.
+                      Ten Times Better Blessed Homes and Properties provided us
+                      with top-notch service. They helped us sell our property
+                      quickly and at a great price. We couldn&apos;t be happier
+                      with the results.
                     </p>
                   </div>
                   <div>
@@ -347,9 +349,10 @@ const Home = () => {
                       Trusted Advisors
                     </h2>
                     <p className="max-lg:text-sm max-lg:font-medium">
-                      The team at Blessed Homes and Properties guided us through
-                      the entire buying process. Their knowledge and commitment
-                      to our needs were impressive. Thank you for your support!
+                      The team at Ten Times Better Blessed Homes and Properties
+                      guided us through the entire buying process. Their
+                      knowledge and commitment to our needs were impressive.
+                      Thank you for your support!
                     </p>
                   </div>
                   <div>
@@ -370,8 +373,8 @@ const Home = () => {
                       Easy and Fast
                     </h2>
                     <p className="max-lg:text-sm max-lg:font-medium">
-                      Blessed Homes and Properties is the best real estate firm.
-                      They made buying our home easy.
+                      Ten Times Better Blessed Homes and Properties is the best
+                      real estate firm. They made buying our home easy.
                     </p>
                   </div>
                   <div>
@@ -407,10 +410,10 @@ const Home = () => {
                     Frequently Asked Questions
                   </h2>
                   <p className="text-base font-medium max-lg:text-sm max-lg:text-[#999999]">
-                    Find answers to common questions about Blessed Homes and
-                    Properties &apos;s services, property listings, and the real
-                    estate process. We&apos;re here to provide clarity and
-                    assist you every step of the way.
+                    Find answers to common questions about Ten Times Better
+                    Blessed Homes and Properties &apos;s services, property
+                    listings, and the real estate process. We&apos;re here to
+                    provide clarity and assist you every step of the way.
                   </p>
                 </div>
                 <button className="bg-[#1A1A1A] h-[49px] w-[155px] border border-[#262626] self-end rounded-lg text-base font-medium max-lg:hidden">
@@ -427,8 +430,8 @@ const Home = () => {
                   <div className="w-[300px] my-10 p-[30px] border border-[#262626] bg-[#141414] rounded-xl">
                     <div className="flex flex-col gap-5">
                       <h2 className="text-[20px] font-semibold">
-                        How do I search for properties on Blessed Homes and
-                        Properties?
+                        How do I search for properties on Ten Times Better
+                        Blessed Homes and Properties?
                       </h2>
                       <p className="text-base font-normal text-[#999999]">
                         Learn how to use our user-friendly search tools to find
@@ -440,8 +443,8 @@ const Home = () => {
                   <div className="w-[300px] my-10 p-[30px] border border-[#262626] bg-[#141414] rounded-xl">
                     <div className="flex flex-col gap-5">
                       <h2 className="text-[20px] font-semibold">
-                        What documents do I need to sell my property through
-                        Blessed Homes and Properties?
+                        What documents do I need to sell my property through Ten
+                        Times Better Blessed Homes and Properties?
                       </h2>
                       <p className="text-base font-normal text-[#999999]">
                         Find out about the necessary documentation for listing
@@ -465,8 +468,8 @@ const Home = () => {
                   <div className="w-[300px] my-10 p-[30px] border border-[#262626] bg-[#141414] rounded-xl">
                     <div className="flex flex-col gap-5">
                       <h2 className="text-[20px] font-semibold">
-                        How do I search for properties on Blessed Homes and
-                        Properties?
+                        How do I search for properties on Ten Times Better
+                        Blessed Homes and Properties?
                       </h2>
                       <p className="text-base font-normal text-[#999999]">
                         A stunning 4-bedroom, 3-bathroom villa in a peaceful

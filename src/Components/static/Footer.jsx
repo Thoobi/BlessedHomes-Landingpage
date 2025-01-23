@@ -108,7 +108,8 @@ const Footer = () => {
         <div className="flex flex-row justify-between py-5 items-center w-[90%] mx-auto max-lg:flex-col-reverse max-lg:gap-4">
           <span className="flex flex-row max-lg:flex-col max-lg:justify-center gap-x-5 max-lg:text-center max-lg:gap-[10px]">
             <p className="text-white text-sm font-medium">
-              &copy; {year} Blessed Homes and Properties. All Rights Reserved
+              &copy; {year} Ten Times Better Blessed Homes and Properties. All
+              Rights Reserved
             </p>
             <p className="text-white text-sm font-medium">Terms & Conditions</p>
           </span>

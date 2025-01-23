@@ -60,8 +60,8 @@ const Property = () => {
             <p className="text-base font-medium max-lg:text-[#999999] max-lg:text-sm">
               Explore our handpicked selection of featured properties. Each
               listing offers a glimpse into exceptional homes and investments
-              available through Blessed Homes and Properties. Click
-              &apos;&apos;View Details&apos;&apos; for more information.
+              available through Ten Times Better Blessed Homes and Properties.
+              Click &apos;&apos;View Details&apos;&apos; for more information.
             </p>
           </div>
           <button className="bg-[#1A1A1A] h-[49px] w-[155px] border border-[#262626] self-end rounded-lg text-base font-medium max-lg:hidden">

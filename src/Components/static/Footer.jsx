@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { FaLinkedin, FaFacebookF } from "react-icons/fa";
 import { FaYoutube, FaXTwitter } from "react-icons/fa6";
-import logo from "../../assets/Logo4.svg";
+import logo from "../../assets/CLOGO.svg";
 import mail from "../../assets/mail.svg";
 import send from "../../assets/Send.svg";
 import background from "../../assets/Lastbg.png";
